@@ -1,0 +1,9 @@
+html * {
+  font-size: 25px;
+  font-family: Garamond !important;
+  color: #001f3f !important;
+  background-color: #DDDDDD !important;
+}
+header {
+  text-align: center;
+}
